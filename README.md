@@ -26,3 +26,4 @@ IsDefault          : bit
 ProductDescription : nvarchar
 <any other localized data>
 ```
+使用这种方法，可以处理所需的多种语言(无需为每种新语言添加其他字段)。
