@@ -66,3 +66,6 @@ id----|---content----------------|---languageId------
    ```
    
    这样Content表中就保存了需要语种的所有的语言信息（当然要维护进去），然后再根据用户的需要，对应Language表选择出对应语种的Content内容。
+   
+   参考文档：
+   [基于 AOP 的动态数据国际化框架的设计与实现](https://www.ibm.com/developerworks/cn/java/j-lo-aopi18n/index.html)
